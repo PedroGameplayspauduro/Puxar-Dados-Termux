@@ -81,7 +81,8 @@ def ip():
 [{G}1{C}] Por que o IP encontrado não é o meu?
 [{G}2{C}] Por que o IP dá inválido?
 [{G}3{C}] Por que não consigo consultar?
-[{G}4{C}] Nenhuma dessas.
+[{G}4{C}] Nenhuma dessas.ajuda.py
+
 [{G}5{C}] Voltar.
 [{G}6{C}] {R}Sair.{C}
 ''')
